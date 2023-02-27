@@ -1,0 +1,242 @@
+{
+    "made_files": {
+        "0": {
+            "file_name": "63ebc55d8dea0.css",
+            "file_path": "\/app\/_userPublish\/production_60132173e30f7_release_63ebc55d8dea0\/assets\/63ebc55d8dea0.css",
+            "content_type": "text\/css"
+        },
+        "1": {
+            "file_name": "63ebc55d8dea0.js",
+            "file_path": "\/app\/_userPublish\/production_60132173e30f7_release_63ebc55d8dea0\/assets\/63ebc55d8dea0.js",
+            "content_type": "application\/javascript"
+        },
+        "2": {
+            "file_name": "609303c28226d.js",
+            "file_path": "\/app\/_userPublish\/production_60132173e30f7_release_63ebc55d8dea0\/pages\/609303c28226d.js",
+            "content_type": "application\/javascript"
+        },
+        "3": {
+            "file_name": "60f9a39711974.js",
+            "file_path": "\/app\/_userPublish\/production_60132173e30f7_release_63ebc55d8dea0\/pages\/60f9a39711974.js",
+            "content_type": "application\/javascript"
+        },
+        "4": {
+            "file_name": "610060674dc49.js",
+            "file_path": "\/app\/_userPublish\/production_60132173e30f7_release_63ebc55d8dea0\/pages\/610060674dc49.js",
+            "content_type": "application\/javascript"
+        },
+        "5": {
+            "file_name": "60f1dfb3a45fb.js",
+            "file_path": "\/app\/_userPublish\/production_60132173e30f7_release_63ebc55d8dea0\/pages\/60f1dfb3a45fb.js",
+            "content_type": "application\/javascript"
+        },
+        "6": {
+            "file_name": "60f1e600a916f.js",
+            "file_path": "\/app\/_userPublish\/production_60132173e30f7_release_63ebc55d8dea0\/pages\/60f1e600a916f.js",
+            "content_type": "application\/javascript"
+        },
+        "7": {
+            "file_name": "60f1f1f8d7762.js",
+            "file_path": "\/app\/_userPublish\/production_60132173e30f7_release_63ebc55d8dea0\/pages\/60f1f1f8d7762.js",
+            "content_type": "application\/javascript"
+        },
+        "8": {
+            "file_name": "60f1f82651ff1.js",
+            "file_path": "\/app\/_userPublish\/production_60132173e30f7_release_63ebc55d8dea0\/pages\/60f1f82651ff1.js",
+            "content_type": "application\/javascript"
+        },
+        "9": {
+            "file_name": "60f20907bf1c1.js",
+            "file_path": "\/app\/_userPublish\/production_60132173e30f7_release_63ebc55d8dea0\/pages\/60f20907bf1c1.js",
+            "content_type": "application\/javascript"
+        },
+        "10": {
+            "file_name": "60f20862c5a21.js",
+            "file_path": "\/app\/_userPublish\/production_60132173e30f7_release_63ebc55d8dea0\/pages\/60f20862c5a21.js",
+            "content_type": "application\/javascript"
+        },
+        "11": {
+            "file_name": "629152939037b.js",
+            "file_path": "\/app\/_userPublish\/production_60132173e30f7_release_63ebc55d8dea0\/pages\/629152939037b.js",
+            "content_type": "application\/javascript"
+        },
+        "12": {
+            "file_name": "60f5fc8d58aaf.js",
+            "file_path": "\/app\/_userPublish\/production_60132173e30f7_release_63ebc55d8dea0\/pages\/60f5fc8d58aaf.js",
+            "content_type": "application\/javascript"
+        },
+        "13": {
+            "file_name": "60f20aeeefa98.js",
+            "file_path": "\/app\/_userPublish\/production_60132173e30f7_release_63ebc55d8dea0\/pages\/60f20aeeefa98.js",
+            "content_type": "application\/javascript"
+        },
+        "14": {
+            "file_name": "60f20af8072b2.js",
+            "file_path": "\/app\/_userPublish\/production_60132173e30f7_release_63ebc55d8dea0\/pages\/60f20af8072b2.js",
+            "content_type": "application\/javascript"
+        },
+        "15": {
+            "file_name": "60f20b14b244f.js",
+            "file_path": "\/app\/_userPublish\/production_60132173e30f7_release_63ebc55d8dea0\/pages\/60f20b14b244f.js",
+            "content_type": "application\/javascript"
+        },
+        "16": {
+            "file_name": "60f20b1f4f697.js",
+            "file_path": "\/app\/_userPublish\/production_60132173e30f7_release_63ebc55d8dea0\/pages\/60f20b1f4f697.js",
+            "content_type": "application\/javascript"
+        },
+        "17": {
+            "file_name": "60f20b45ca38c.js",
+            "file_path": "\/app\/_userPublish\/production_60132173e30f7_release_63ebc55d8dea0\/pages\/60f20b45ca38c.js",
+            "content_type": "application\/javascript"
+        },
+        "18": {
+            "file_name": "60f5df1d0b09b.js",
+            "file_path": "\/app\/_userPublish\/production_60132173e30f7_release_63ebc55d8dea0\/pages\/60f5df1d0b09b.js",
+            "content_type": "application\/javascript"
+        },
+        "19": {
+            "file_name": "60f6ebc88ea9e.js",
+            "file_path": "\/app\/_userPublish\/production_60132173e30f7_release_63ebc55d8dea0\/pages\/60f6ebc88ea9e.js",
+            "content_type": "application\/javascript"
+        },
+        "20": {
+            "file_name": "60f72c111961e.js",
+            "file_path": "\/app\/_userPublish\/production_60132173e30f7_release_63ebc55d8dea0\/pages\/60f72c111961e.js",
+            "content_type": "application\/javascript"
+        },
+        "21": {
+            "file_name": "60f20be789d57.js",
+            "file_path": "\/app\/_userPublish\/production_60132173e30f7_release_63ebc55d8dea0\/pages\/60f20be789d57.js",
+            "content_type": "application\/javascript"
+        },
+        "22": {
+            "file_name": "60f20bfacf49a.js",
+            "file_path": "\/app\/_userPublish\/production_60132173e30f7_release_63ebc55d8dea0\/pages\/60f20bfacf49a.js",
+            "content_type": "application\/javascript"
+        },
+        "23": {
+            "file_name": "60f20c09b24be.js",
+            "file_path": "\/app\/_userPublish\/production_60132173e30f7_release_63ebc55d8dea0\/pages\/60f20c09b24be.js",
+            "content_type": "application\/javascript"
+        },
+        "24": {
+            "file_name": "60f20c163d0b0.js",
+            "file_path": "\/app\/_userPublish\/production_60132173e30f7_release_63ebc55d8dea0\/pages\/60f20c163d0b0.js",
+            "content_type": "application\/javascript"
+        },
+        "25": {
+            "file_name": "627958f6e7af6.js",
+            "file_path": "\/app\/_userPublish\/production_60132173e30f7_release_63ebc55d8dea0\/pages\/627958f6e7af6.js",
+            "content_type": "application\/javascript"
+        },
+        "26": {
+            "file_name": "60f20c22f3b1e.js",
+            "file_path": "\/app\/_userPublish\/production_60132173e30f7_release_63ebc55d8dea0\/pages\/60f20c22f3b1e.js",
+            "content_type": "application\/javascript"
+        },
+        "27": {
+            "file_name": "60f20c33a6200.js",
+            "file_path": "\/app\/_userPublish\/production_60132173e30f7_release_63ebc55d8dea0\/pages\/60f20c33a6200.js",
+            "content_type": "application\/javascript"
+        },
+        "28": {
+            "file_name": "60f745eed6784.js",
+            "file_path": "\/app\/_userPublish\/production_60132173e30f7_release_63ebc55d8dea0\/pages\/60f745eed6784.js",
+            "content_type": "application\/javascript"
+        },
+        "29": {
+            "file_name": "60f5f7d7c2522.js",
+            "file_path": "\/app\/_userPublish\/production_60132173e30f7_release_63ebc55d8dea0\/pages\/60f5f7d7c2522.js",
+            "content_type": "application\/javascript"
+        },
+        "30": {
+            "file_name": "60f7496ed5868.js",
+            "file_path": "\/app\/_userPublish\/production_60132173e30f7_release_63ebc55d8dea0\/pages\/60f7496ed5868.js",
+            "content_type": "application\/javascript"
+        },
+        "31": {
+            "file_name": "60f75005aa45c.js",
+            "file_path": "\/app\/_userPublish\/production_60132173e30f7_release_63ebc55d8dea0\/pages\/60f75005aa45c.js",
+            "content_type": "application\/javascript"
+        },
+        "32": {
+            "file_name": "62914e623d86f.js",
+            "file_path": "\/app\/_userPublish\/production_60132173e30f7_release_63ebc55d8dea0\/pages\/62914e623d86f.js",
+            "content_type": "application\/javascript"
+        },
+        "33": {
+            "file_name": "60f74955cfdb3.js",
+            "file_path": "\/app\/_userPublish\/production_60132173e30f7_release_63ebc55d8dea0\/pages\/60f74955cfdb3.js",
+            "content_type": "application\/javascript"
+        },
+        "34": {
+            "file_name": "60f74eebcb856.js",
+            "file_path": "\/app\/_userPublish\/production_60132173e30f7_release_63ebc55d8dea0\/pages\/60f74eebcb856.js",
+            "content_type": "application\/javascript"
+        },
+        "35": {
+            "file_name": "60f20b8c54424.js",
+            "file_path": "\/app\/_userPublish\/production_60132173e30f7_release_63ebc55d8dea0\/pages\/60f20b8c54424.js",
+            "content_type": "application\/javascript"
+        },
+        "36": {
+            "file_name": "60f752d8608c8.js",
+            "file_path": "\/app\/_userPublish\/production_60132173e30f7_release_63ebc55d8dea0\/pages\/60f752d8608c8.js",
+            "content_type": "application\/javascript"
+        },
+        "37": {
+            "file_name": "60f7532499b45.js",
+            "file_path": "\/app\/_userPublish\/production_60132173e30f7_release_63ebc55d8dea0\/pages\/60f7532499b45.js",
+            "content_type": "application\/javascript"
+        },
+        "38": {
+            "file_name": "60f753147a750.js",
+            "file_path": "\/app\/_userPublish\/production_60132173e30f7_release_63ebc55d8dea0\/pages\/60f753147a750.js",
+            "content_type": "application\/javascript"
+        },
+        "39": {
+            "file_name": "60f849d81e979.js",
+            "file_path": "\/app\/_userPublish\/production_60132173e30f7_release_63ebc55d8dea0\/pages\/60f849d81e979.js",
+            "content_type": "application\/javascript"
+        },
+        "40": {
+            "file_name": "60f754004bc6a.js",
+            "file_path": "\/app\/_userPublish\/production_60132173e30f7_release_63ebc55d8dea0\/pages\/60f754004bc6a.js",
+            "content_type": "application\/javascript"
+        },
+        "41": {
+            "file_name": "60f754108e1be.js",
+            "file_path": "\/app\/_userPublish\/production_60132173e30f7_release_63ebc55d8dea0\/pages\/60f754108e1be.js",
+            "content_type": "application\/javascript"
+        },
+        "42": {
+            "file_name": "60fef97b35eaa.js",
+            "file_path": "\/app\/_userPublish\/production_60132173e30f7_release_63ebc55d8dea0\/pages\/60fef97b35eaa.js",
+            "content_type": "application\/javascript"
+        },
+        "43": {
+            "file_name": "60fb2bd2327b8.js",
+            "file_path": "\/app\/_userPublish\/production_60132173e30f7_release_63ebc55d8dea0\/pages\/60fb2bd2327b8.js",
+            "content_type": "application\/javascript"
+        },
+        "44": {
+            "file_name": "60f8887d97fd0.js",
+            "file_path": "\/app\/_userPublish\/production_60132173e30f7_release_63ebc55d8dea0\/pages\/60f8887d97fd0.js",
+            "content_type": "application\/javascript"
+        },
+        "launch.html": {
+            "file_name": "launch.html",
+            "file_path": "\/app\/_userPublish\/production_60132173e30f7_release_63ebc55d8dea0\/launch.html",
+            "content_type": "text\/html"
+        },
+        "45": {
+            "file_name": "login.html",
+            "file_path": "\/app\/_userPublish\/production_60132173e30f7_release_63ebc55d8dea0\/login.html",
+            "content_type": "text\/html"
+        }
+    },
+    "homepage_url": "609303c28226d.js",
+    "css_url": "63ebc55d8dea0.css",
+    "js_url": "63ebc55d8dea0.js"
+}
